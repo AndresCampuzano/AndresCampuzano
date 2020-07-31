@@ -2,7 +2,7 @@
 <img 
 src="https://media-exp1.licdn.com/dms/image/C4E16AQFm2K5Pqjazaw/profile-displaybackgroundimage-shrink_350_1400/0?e=1601510400&v=beta&t=KBMSxB6qtlQu9TqAIqFRjt7oilpLmNABNLksKb2YMcA" alt="Andres Campuzano Garzon cover" style="float: left; margin-bottom: 30px;" />
 
-<h1>Hey 👋, I'm Andrés Campuzano Garzón | andrescampuzano.com </h1>
+<h1>Hey 👋, I'm Andrés Campuzano Garzón | <a href="https://andrescampuzano.com/">andrescampuzano.com</a></h1>
 <div style="margin:5px 10px 50px 0px">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/andrescampuzano?label=follow%20me%21&style=social">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/andrescampuzan0?style=social">
