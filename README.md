@@ -17,6 +17,8 @@
 </a>
 
 <br>
+<br>
+<br>
 
 Over the year, I’ve been learning what requires to bring solutions. I’m in charge of taking data code and using HTML, CSS, and Javascript to render it client-side, creating websites and applications.
 <br>
