@@ -1,7 +1,7 @@
 <h1>Hey 👋, I'm Andrés Campuzano Garzón | andrescampuzano.com </h1>
 <div style="margin:5px 10px 50px 0px">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/andrescampuzano?label=follow%20me%21&style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/andrescampuzano?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/andrescampuzan0?style=social">
 </div>
 
 <h2>About me</h2>
