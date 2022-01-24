@@ -23,11 +23,7 @@ src="https://media-exp1.licdn.com/dms/image/C4E16AQFm2K5Pqjazaw/profile-displayb
 <br>
 <br>
 <br>
-
-Over the year, I’ve been learning what requires to bring solutions. I’m in charge of taking data code and using HTML, CSS, and Javascript to render it client-side, creating websites and applications.
-<br>
-<br>
-I like to resolve problems, create smart user interface, and always learn new things. When I’m not studying or working, I’m playing some videogames, improving my English skills with friends, or learning other languages/cultures.
+Web Engineer👨‍💻 at Huge Inc 
 <br>
 <br>
 
