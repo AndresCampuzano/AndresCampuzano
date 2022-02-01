@@ -1,5 +1,5 @@
 <h1>Hey 👋, I'm Andrés Campuzano Garzón | <a href="https://andrescampuzano.com/">andrescampuzano.com</a></h1>
-<h2>Web Engineer 👨‍💻 at Huge Inc</h2>
+<h2>Web Engineer👨🏽‍💻 at <a href="https://www.hugeinc.com/">Huge Inc</a></h2>
 
 <h2>About me</h2>
 
