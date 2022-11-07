@@ -1,13 +1,10 @@
-<h1>Hey 👋, I'm Andrés Campuzano Garzón | <a href="https://andrescampuzano.com/">andrescampuzano.com</a></h1>
-<h2>Web Engineer👨🏽‍💻 at <a href="https://www.hugeinc.com/">Huge Inc</a></h2>
+<h1>Hey 👋, I'm Andres Campuzano Garzon | <a href="https://andrescampuzano.com/">andrescampuzano.com</a></h1>
+<h2>Frontend Expert👨🏽‍💻 at <a href="https://www.properai.com/">Proper AI</a></h2>
 
 <h2>About me</h2>
 
 <a href="https://www.linkedin.com/in/andres-campuzano-garzon/">
   <img align="left" alt="Andres's LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://gitlab.com/AndresCampuzano">
-  <img align="left" alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gitlab.svg" />
 </a>
 <a href="mailto:hello@andrescampuzano.com">
   <img align="left" alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
