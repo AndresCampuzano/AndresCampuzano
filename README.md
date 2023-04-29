@@ -1,5 +1,5 @@
 <h1>Hey 👋, I'm Andres Campuzano Garzon | <a href="https://andrescampuzano.com/">andrescampuzano.com</a></h1>
-<h2>Frontend Expert👨🏽‍💻 at <a href="https://www.proper.ai/">Proper AI</a></h2>
+<h2>Frontend Expert👨🏽‍💻 at <a href="https://proper.ai/">Proper AI</a></h2>
 
 <h2>About me</h2>
 
