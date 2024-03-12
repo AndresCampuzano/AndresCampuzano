@@ -1,5 +1,5 @@
 <h1>Hey 👋, I'm Andres Campuzano Garzon | <a href="https://andrescampuzano.com/">andrescampuzano.com</a></h1>
-<h2>Senior Frontend Developer👨🏽‍💻</h2>
+<h2>Frontend Developer👨🏽‍💻</h2>
 
 <h2>About me</h2>
 
