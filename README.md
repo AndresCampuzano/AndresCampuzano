@@ -4,6 +4,7 @@
 <h2>About me</h2>
 
 <a href="https://www.linkedin.com/in/andres-campuzano-garzon/" target="_blank">Visit my LinkedIn profile</a>
+<br>
 <a href="mailto:hello@andrescampuzano.com">hello@andrescampuzano.com</a>
 
 <br>
