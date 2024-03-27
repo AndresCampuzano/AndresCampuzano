@@ -3,12 +3,8 @@
 
 <h2>About me</h2>
 
-<a href="https://www.linkedin.com/in/andres-campuzano-garzon/">
-  <img align="left" alt="Andres's LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:hello@andrescampuzano.com">
-  <img align="left" alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
-</a>
+<a href="https://www.linkedin.com/in/andres-campuzano-garzon/" target="_blank">Visit my LinkedIn profile</a>
+<a href="mailto:hello@andrescampuzano.com">hello@andrescampuzano.com</a>
 
 <br>
 <br>
