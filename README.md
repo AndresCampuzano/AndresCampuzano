@@ -1,7 +1,6 @@
-<h1>Hey 👋, I'm Andres Campuzano Garzon | <a href="https://andrescampuzano.com/">andrescampuzano.com</a></h1>
 <h2>Mid-level Software Developer | React | Vue | Typescript | Javascript | Go 👨🏽‍💻</h2>
 
-<h2>About me</h2>
+<h3>About me</h3>
 
 👋🏽 Hi, my name is Andres
 
