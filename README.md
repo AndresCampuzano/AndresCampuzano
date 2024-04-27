@@ -10,7 +10,7 @@
 
 📚 I have collaborated with diverse teams on various projects, delivering high-quality web applications and landing pages for notable clients such as **Google** (including Chrome Enterprise, Grow with Google, and Password Manager). In my most recent role as a Frontend Expert at **Proper**, I developed internal tools for accounting and bookkeeping services utilizing **Vue.js, Nuxt.js, TypeScript, Go, AWS**, and **Google Cloud Platform**.
 
-💻 Proficient in **JavaScript, TypeScript, Go, Node.js, React, Vue, Next.js, Nuxt.js, and RESTful APIs. Skilled in HTML, CSS, and SQL** with expertise in frontend testing using **Jest** and **Cypress**. Possessing valuable experience in both **startup** and **corporate environments**.
+💻 Proficient in **JavaScript, TypeScript, Node.js, React, Vue, Next.js, Nuxt.js, and RESTful APIs. Skilled in HTML, CSS, and SQL** with expertise in frontend testing using **Jest** and **Cypress**. Possessing valuable experience in both **startup** and **corporate environments**.
 
 ✌️ Thanks for watching my Github profile, please take a look at my **LinkedIn** and get in touch!
 
