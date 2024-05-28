@@ -2,9 +2,9 @@
 
 <h3>About me</h3>
 
-👋🏽 Hi, my name is Andres
+👋🏽 Hi, my name is Andres.
 
-🎓 Currently improving my skills in **Go programming language** while simultaneously undertaking the **AWS Cloud Technical Essentials** official course provided by **AWS**.
+🎓 Currently improving my skills in **Go** programming language and **iOS** development using **Swift**.
 
 🌇 I'm living in **Medellin, Colombia**, with a passion for learning new technologies and staying abreast of the latest tech trends while **fostering a self-taught spirit** with the people around me as I already am.
 
@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/andres-campuzano-garzon/" target="_blank">Visit my LinkedIn profile</a>
 <br>
-<a href="mailto:hello@andrescampuzano.com">hello@andrescampuzano.com</a>
+<a href="mailto:andres.campuzano@icloud.com">andres.campuzano@icloud.com</a>
 
 <br>
 
