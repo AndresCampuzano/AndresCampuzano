@@ -2,8 +2,6 @@
 
 <h3>About me</h3>
 
-👋🏽 Hi, my name is Andres.
-
 <!-- 🎓 Currently improving my skills in **Go** programming language and **iOS** development using **Swift**. 
 🌇 I'm living in **Medellin, Colombia**, with a passion for learning new technologies and staying abreast of the latest tech trends while **fostering a self-taught spirit** with the people around me as I already am.
 
