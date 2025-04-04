@@ -1,4 +1,4 @@
-<h2>Mid-level Software Developer | React | Vue | Typescript | Javascript | Go 👨🏽‍💻</h2>
+<h2>Software Developer | React | Vue | Typescript | Javascript | Go 👨🏽‍💻</h2>
 
 <h3>About me</h3>
 
